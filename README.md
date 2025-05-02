@@ -18,5 +18,7 @@ A small JS script to autoscroll on the PornHub shorties feed.
 ## Variables
 
 `stop = false;` to stop the loop.
+
 `delay = 3000;` to change the delay (in milliseconds).
+
 `enableSound = false;` makes it so the sound will NOT be enabled on the next shorties.
