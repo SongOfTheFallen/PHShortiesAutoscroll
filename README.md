@@ -9,7 +9,7 @@ A small JS script to autoscroll on the PornHub shorties feed.
 
 3. Click on the 'Console' tab
 
-4. Type 'allow pasting' and send it
+4. Type `allow pasting` and send it
 
 5. Copy the code in [index.js](./index.js) and send it
 
