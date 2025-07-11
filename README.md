@@ -17,8 +17,20 @@ A small JS script to autoscroll on the PornHub shorties feed.
 
 ## Variables
 
-`stop = false;` to stop the loop.
+> [!TIP]
+> Don't forget the `;` semicolon!
 
-`delay = 3000;` to change the delay (in milliseconds).
+To stop the loo:
+```bash
+stop = true;
+```
 
-`enableSound = false;` makes it so the sound will NOT be enabled on the next shorties.
+To change the delay (in milliseconds, here 5 seconds):
+```bash
+delay = 5000;
+```
+
+To stop the auto-enabling of sound on the next shorties:
+```bash
+enableSound = false;
+```
