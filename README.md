@@ -11,7 +11,7 @@ A small JS script to autoscroll on the PornHub shorties feed.
 
 4. Type `allow pasting` **manually** and send it
 
-5. Copy the code in [index.js](./index.js) and send it
+5. Copy everything in [index.js](https://raw.githubusercontent.com/SongOfTheFallen/PHShortiesAutoscroll/refs/heads/main/index.js) and send it
 
 6. Enjoy!
 
